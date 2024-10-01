@@ -1,3 +1,4 @@
+![image alt](https://github.com/umamaaa/Olympics-Frame-Work/blob/main/DashBoard.png)
 # Olympics Frame-Work
 Here is a short description of Olympics Dashboard
 - Card visualization representing Total Medals won by countries.
